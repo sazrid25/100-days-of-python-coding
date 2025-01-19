@@ -5,6 +5,12 @@
 # print("5. Bake at 200 degrees C for 30 minutes.")
 
 
-username = input("type your username: ")
-length = len(username)
-print(length)
+# username = input("type your username: ")
+# length = len(username)
+# print(length)
+
+# num = 5
+# print(num)
+
+# name = "Ridoy"
+# print(name[0])
